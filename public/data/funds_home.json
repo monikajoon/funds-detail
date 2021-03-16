@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "funds": [
+        {
+          "name": "Suncorp Fund 1",
+          "id": "fund_1",
+          "date": "11/11/2011",
+          "entryPrice": "232.00",
+          "exitPrice": "253.00"
+        },
+        {
+          "name": "Suncorp Fund 2",
+          "id": "fund_2",
+          "date": "11/11/2011",
+          "entryPrice": "232.00",
+          "exitPrice": "253.00"
+        },
+        {
+          "name": "Suncorp Fund 3",
+          "id": "fund_3",
+          "date": "11/11/2011",
+          "entryPrice": "232.00",
+          "exitPrice": "253.00"
+        },
+        {
+          "name": "Suncorp Fund 4",
+          "id": "fund_4",
+          "date": "11/11/2011",
+          "entryPrice": "232.00",
+          "exitPrice": "253.00"
+        }
+      ],
+      "type": "FUNDS"
+    },
+    {
+      "funds": [
+        {
+          "name": "Cash Suncorp",
+          "id": "fund_99",
+          "date": "11/11/2011",
+          "entryPrice": "232.00",
+          "exitPrice": "253.00"
+        }
+        
+      ],
+      "type": "CASH"
+    },
+    {
+      "funds": [
+        {
+          "name": "Propertyyyyy Suncorp",
+          "id": "fund_77",
+          "date": "11/11/2011",
+          "entryPrice": "232.00",
+          "exitPrice": "253.00"
+        }
+        
+      ],
+      "type": "PROPERTY"
+    },
+    {
+      "funds": [
+        {
+          "name": "Shareeeeessss Khan Suncorp",
+          "id": "fund_88",
+          "date": "11/11/2011",
+          "entryPrice": "232.00",
+          "exitPrice": "253.00"
+        }
+        
+      ],
+      "type": "SHARE"
+    }
+  ]
+}

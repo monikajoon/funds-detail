@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "funds": [
+        {
+          "date": "08/03/2021",
+          "entryPrice": "1.4200",
+          "exitPrice": "1.4171"
+        },
+        {
+          "date": "05/03/2021",
+          "entryPrice": "1.4200",
+          "exitPrice": "1.4171"
+        },
+        {
+          "date": "04/03/2021",
+          "entryPrice": "1.4130",
+          "exitPrice": "1.4102"
+        },
+        {
+          "date": "03/03/2021",
+          "entryPrice": "1.4219",
+          "exitPrice": "1.4191"
+        },
+        {
+          "date": "02/03/2021",
+          "entryPrice": "1.4210",
+          "exitPrice": "1.4181"
+        },
+        {
+          "date": "01/03/2021",
+          "entryPrice": "1.4234",
+          "exitPrice": "1.4205"
+        },
+        {
+          "date": "28/02/2021",
+          "entryPrice": "1.4289",
+          "exitPrice": "1.4302"
+        },
+        {
+          "date": "26/02/2021",
+          "entryPrice": "1.4210",
+          "exitPrice": "1.4209"
+        },
+        {
+          "date": "25/02/2021",
+          "entryPrice": "1.4218",
+          "exitPrice": "1.4232"
+        },
+        {
+          "date": "24/02/2021",
+          "entryPrice": "1.4212",
+          "exitPrice": "1.4091"
+        },
+        {
+          "date": "23/02/2021",
+          "entryPrice": "1.4210",
+          "exitPrice": "1.4091"
+        },
+        {
+          "date": "22/02/2021",
+          "entryPrice": "1.4210",
+          "exitPrice": "1.4171"
+        },
+        {
+          "date": "19/02/2021",
+          "entryPrice": "1.4210",
+          "exitPrice": "1.4215"
+        },
+        {
+          "date": "18/02/2021",
+          "entryPrice": "1.4377",
+          "exitPrice": "1.4348"
+        },
+        {
+          "date": "17/02/2021",
+          "entryPrice": "1.4428",
+          "exitPrice": "1.4399"
+        },
+        {
+          "date": "16/02/2021",
+          "entryPrice": "1.4445",
+          "exitPrice": "1.4416"
+        },
+        {
+          "date": "15/02/2021",
+          "entryPrice": "1.4392",
+          "exitPrice": "1.4364"
+        },
+        {
+          "date": "12/02/2021",
+          "entryPrice": "1.4354",
+          "exitPrice": "1.4326"
+        },
+        {
+          "date": "11/02/2021",
+          "entryPrice": "1.4352",
+          "exitPrice": "1.4322"
+        },
+        {
+          "date": "10/02/2021",
+          "entryPrice": "1.4361",
+          "exitPrice": "1.4332"
+        },
+        {
+          "date": "09/02/2021",
+          "entryPrice": "1.4327",
+          "exitPrice": "1.4298"
+        },
+        {
+          "date": "08/02/2021",
+          "entryPrice": "1.4347",
+          "exitPrice": "1.4319"
+        }
+      ]
+    }
+  ]
+}
